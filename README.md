@@ -13,9 +13,9 @@ First create an application with the help of **create-react-app** which will cre
 
 ## Key Feature(s)
 
-- This app also focuses on user security, as it uses **Bcrypt** library to hash the user password when a new user registers.
-- It has **Notification** system, which notifies the user or doctor when there is a request.
-- **JWT**'s been used to verify for stateless authentication, where the server does not need to maintain session data for each user.
+- This app also focuses on user security, as it uses *Bcrypt* library to hash the user password when a new user registers.
+- It has *Notification* system, which notifies the user or doctor when there is a request.
+- *JWT*'s been used to verify for stateless authentication, where the server does not need to maintain session data for each user.
 
 ## Watch this live!
 
